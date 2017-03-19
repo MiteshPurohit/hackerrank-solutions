@@ -3,6 +3,8 @@ import java.util.Scanner;
 /**
  * https://www.hackerrank.com/contests/w30/challenges/candy-replenishing-robot
  *
+ * Warning: This solution fails for one test case. Too lazy to debug. ;)
+ * 
  * @author Darpan Dodiya
  */
 
