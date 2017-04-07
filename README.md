@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Solutions-24-green.svg">
+	<img src="https://img.shields.io/badge/Solutions-24-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
@@ -20,7 +20,7 @@
 
 
 
-## Algorithms ![AlgorithmsPoints]
+## Algorithms ![AlgorithmsPoints] ![AlgorithmsRank]
 - [Warmup](https://github.com/darpandodiya/HackerRank-Solutions#warmup)
 - [Implementation](https://github.com/darpandodiya/HackerRank-Solutions#implementation)
 - [Strings](https://github.com/darpandodiya/HackerRank-Solutions#strings)
@@ -302,7 +302,8 @@
 |   | [TBS Problem](https://www.hackerrank.com/challenges/tbsp)| Java |  | | Expert | 100 | ||
 
 
-This read me is highly inspired by: [RyanFehr](https://github.com/RyanFehr/HackerRank)
+
+This README.md is highly inspired by: [RyanFehr](https://github.com/RyanFehr/HackerRank)
 
 [HackerRank]:http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg
 
@@ -322,5 +323,5 @@ This read me is highly inspired by: [RyanFehr](https://github.com/RyanFehr/Hacke
 [MathematicsRank]:https://img.shields.io/badge/Rank-n/a-lightgrey.svg
 [MathematicsPoints]:https://img.shields.io/badge/Points-n/a-lightgrey.svg
 
-[JavaRank]:https://img.shields.io/badge/Rank-23370-yellow.svg
-[JavaPoints]:https://img.shields.io/badge/Points-183-yellow.svg
+[JavaRank]:https://img.shields.io/badge/Rank-23370-brightgreen.svg
+[JavaPoints]:https://img.shields.io/badge/Points-183-brightgreen.svg
