@@ -21,18 +21,19 @@
 
 
 ## Algorithms ![AlgorithmsPoints] ![AlgorithmsRank] ![AlgorithmsPercentile]
-- Warmup (Solved 10/10)
-- Implementation 
-- Strings
-- Sorting
-- Search
-- Graph Theory
-- Dynamic Programming
-- Constructive Algorithms
-- Bit Manipulation
-- Recursion
-- Game Theory
-- NP Complete
+- Warmup *(Solved 10/10)*
+- Implementation (Solved 5/63)
+- Strings (Solved 1/45)
+- Sorting (Solved 1/18)
+- Search (Solved 1/24)
+- Graph Theory (Solved 1/59)
+- Greedy (Solved 1/22)
+- Dynamic Programming (Solved 1/85)
+- Constructive Algorithms (Solved 0/11)
+- Bit Manipulation (Solved 2/25)
+- Recursion (Solved 1/11)
+- Game Theory (Solved 0/32)
+- NP Complete (Solved 0/4)
 
 ## Data Structures ![DataStructuresPoints] ![DataStructuresRank]
 - Arrays
@@ -57,19 +58,19 @@
 - Linear Algebra Foundations
 
 ## Java ![JavaPoints] ![JavaRank]
-- Introduction
-- Strings
-- BigNumber
-- Data Structures
-- Object Oriented Programming
-- Exception Handling
-- Advanced
+- Introduction *(Solved 13/13)*
+- Strings (Solved 0/11)
+- BigNumber (Solved 0/3)
+- Data Structures (Solved 0/15) 
+- Object Oriented Programming (Solved 0/9)
+- Exception Handling *(Solved 2/2)*
+- Advanced (Solved 1/12)
 
 
 [HackerRank]:http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg
 
 
-[Problems Solved]:https://img.shields.io/badge/Problems%20Solved-34-brightgreen.svg
+[Problems Solved]:https://img.shields.io/badge/Problems%20Solved-40-brightgreen.svg
 [Language]:https://img.shields.io/badge/Language-Java/Python-orange.svg
 [ContestRank]:https://img.shields.io/badge/Contest%20Rank-8213-brightgreen.svg
 [ContestPercentile]:https://img.shields.io/badge/Contest%20Percentile-92nd-brightgreen.svg
