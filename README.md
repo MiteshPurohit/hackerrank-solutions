@@ -66,6 +66,9 @@
 - Exception Handling *(Solved 2/2)*
 - Advanced (Solved 1/12)
 
+***
+README inspired from [RyanFehr](https://github.com/RyanFehr/HackerRank). Copyright RyanFehr.
+
 
 [HackerRank]:http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg
 
